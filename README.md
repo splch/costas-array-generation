@@ -32,6 +32,8 @@ print("Costas permutation:", result)
 visualize_costas_array(result)
 ```
 
+![image](https://github.com/user-attachments/assets/37c24180-7f08-4ed2-a8b5-0bd0f66284d4)
+
 Run examples in the provided `main.ipynb`.
 
 ## License
